@@ -1,0 +1,259 @@
+{ start: 200, end: 203, txt: '[1]', ref_id: 'BIBREF0' }
+{ start: 204, end: 207, txt: '[2]', ref_id: 'BIBREF1' }
+{ start: 208, end: 211, txt: '[3]', ref_id: 'BIBREF2' }
+{ start: 822, end: 825, txt: '[4]', ref_id: 'BIBREF3' }
+{ start: 826, end: 829, txt: '[5]', ref_id: 'BIBREF4' }
+{ start: 830, end: 833, txt: '[6]', ref_id: 'BIBREF5' }
+{ start: 94, end: 97, txt: '[1]', ref_id: 'BIBREF0' }
+{ start: 387, end: 390, txt: '[7,', ref_id: 'BIBREF6' }
+{ start: 391, end: 393, txt: '8]', ref_id: 'BIBREF7' }
+{ start: 647, end: 650, txt: '[9]', ref_id: 'BIBREF8' }
+{ start: 314, end: 327, txt: '[10 • ,11-14]', ref_id: null }
+{ start: 620, end: 625, txt: '[10 •', ref_id: null }
+{ start: 1034, end: 1038, txt: '[15]', ref_id: 'BIBREF16' }
+{ start: 1291, end: 1296, txt: '[10 •', ref_id: null }
+{ start: 162, end: 166, txt: '[16]', ref_id: null }
+{ start: 232, end: 236, txt: '[17]', ref_id: null }
+{ start: 251, end: 255, txt: '[13]', ref_id: 'BIBREF14' }
+{ start: 346, end: 350, txt: '[14]', ref_id: 'BIBREF15' }
+{ start: 756, end: 760, txt: '[18]', ref_id: null }
+{ start: 542, end: 546, txt: '[23,', ref_id: null }
+{ start: 547, end: 550, txt: '24]', ref_id: null }
+{ start: 318, end: 322, txt: '[28]', ref_id: null }
+{ start: 521, end: 525, txt: '[29]', ref_id: null }
+{ start: 154, end: 158, txt: '[30]', ref_id: null }
+{ start: 677, end: 681, txt: '[31]', ref_id: null }
+{ start: 168, end: 172, txt: '[34,', ref_id: null }
+{ start: 173, end: 176, txt: '35]', ref_id: null }
+{ start: 292, end: 296, txt: '[39]', ref_id: null }
+{ start: 566, end: 570, txt: '[24,', ref_id: null }
+{ start: 571, end: 574, txt: '40]', ref_id: null }
+{ start: 99, end: 103, txt: '[35,', ref_id: null }
+{ start: 104, end: 107, txt: '41]', ref_id: null }
+{ start: 245, end: 249, txt: '[41]', ref_id: null }
+{ start: 371, end: 375, txt: '[41]', ref_id: null }
+{ start: 591, end: 595, txt: '[41,', ref_id: null }
+{ start: 596, end: 599, txt: '44]', ref_id: null }
+{ start: 221, end: 224, txt: '[1,', ref_id: 'BIBREF0' }
+{ start: 225, end: 228, txt: '45]', ref_id: null }
+{ start: 373, end: 377, txt: '[57]', ref_id: null }
+{ start: 278, end: 282, txt: '[69]', ref_id: 'BIBREF20' }
+{ start: 498, end: 502, txt: '[70]', ref_id: 'BIBREF21' }
+{ start: 682, end: 686, txt: '[71]', ref_id: 'BIBREF22' }
+{ start: 1002, end: 1006, txt: '[72]', ref_id: 'BIBREF23' }
+{ start: 165, end: 169, txt: '[73]', ref_id: 'BIBREF25' }
+{ start: 140, end: 144, txt: '[68]', ref_id: 'BIBREF19' }
+{ start: 372, end: 376, txt: '[73]', ref_id: 'BIBREF25' }
+{ start: 499, end: 503, txt: '[74]', ref_id: 'BIBREF26' }
+{ start: 351, end: 359, txt: '[75 •• ]', ref_id: null }
+{ start: 86, end: 90, txt: '[76]', ref_id: 'BIBREF29' }
+{ start: 302, end: 310, txt: '[77,78 •', ref_id: null }
+{ start: 773, end: 777, txt: '[77]', ref_id: 'BIBREF30' }
+{ start: 154, end: 159, txt: '[79 •', ref_id: null }
+{ start: 167, end: 171, txt: '[18]', ref_id: null }
+{ start: 607, end: 611, txt: '[81]', ref_id: 'BIBREF36' }
+{ start: 64, end: 68, txt: '[67]', ref_id: 'BIBREF18' }
+{ start: 105, end: 109, txt: '[82]', ref_id: 'BIBREF37' }
+{ start: 221, end: 225, txt: '[83]', ref_id: 'BIBREF38' }
+{ start: 165, end: 170, txt: '[84 •', ref_id: null }
+{ start: 329, end: 340, txt: '[85 • ,86 •', ref_id: null }
+{ start: 575, end: 580, txt: '[87 •', ref_id: null }
+{ start: 700, end: 704, txt: '[88,', ref_id: 'BIBREF46' }
+{ start: 705, end: 708, txt: '89]', ref_id: 'BIBREF47' }
+{ start: 758, end: 762, txt: '[90]', ref_id: 'BIBREF48' }
+{ start: 156, end: 160, txt: '[62]', ref_id: null }
+{ start: 118, end: 123, txt: '[84 •', ref_id: null }
+{ start: 177, end: 181, txt: '[62]', ref_id: null }
+{ start: 278, end: 282, txt: '[91]', ref_id: 'BIBREF49' }
+{ start: 311, end: 315, txt: '[92]', ref_id: 'BIBREF50' }
+{ start: 223, end: 227, txt: '[93]', ref_id: 'BIBREF51' }
+{ start: 664, end: 668, txt: '[94]', ref_id: 'BIBREF53' }
+{ start: 434, end: 439, txt: '[95 •', ref_id: null }
+{ start: 619, end: 624, txt: '[96 •', ref_id: null }
+{ start: 754, end: 759, txt: '[96 •', ref_id: null }
+{ start: 140, end: 144, txt: '[97]', ref_id: 'BIBREF58' }
+{ start: 145, end: 149, txt: '[98]', ref_id: 'BIBREF59' }
+{ start: 150, end: 154, txt: '[99]', ref_id: 'BIBREF60' }
+{ start: 155, end: 160, txt: '[100]', ref_id: 'BIBREF61' }
+{ start: 292, end: 296, txt: '[98,', ref_id: 'BIBREF59' }
+{ start: 297, end: 301, txt: '100,', ref_id: 'BIBREF61' }
+{ start: 302, end: 306, txt: '101]', ref_id: 'BIBREF62' }
+{ start: 488, end: 492, txt: '[98,', ref_id: 'BIBREF59' }
+{ start: 493, end: 497, txt: '101,', ref_id: 'BIBREF62' }
+{ start: 498, end: 502, txt: '102]', ref_id: 'BIBREF63' }
+{ start: 358, end: 361, txt: '[1]', ref_id: 'BIBREF0' }
+{ start: 488, end: 494, txt: '[103 •', ref_id: null }
+{ start: 616, end: 621, txt: '[104]', ref_id: 'BIBREF66' }
+{ start: 786, end: 791, txt: '[105]', ref_id: 'BIBREF67' }
+{ start: 965, end: 969, txt: '[91,', ref_id: 'BIBREF49' }
+{ start: 970, end: 973, txt: '92]', ref_id: 'BIBREF50' }
+{ start: 213, end: 218, txt: '[106]', ref_id: 'BIBREF68' }
+{ start: 187, end: 192, txt: '[107]', ref_id: 'BIBREF69' }
+{ start: 97, end: 102, txt: '[107]', ref_id: 'BIBREF69' }
+{ start: 367, end: 372, txt: '[107]', ref_id: 'BIBREF69' }
+{ start: 317, end: 322, txt: '[108]', ref_id: 'BIBREF70' }
+{ start: 14, end: 19, txt: '[118]', ref_id: 'BIBREF80' }
+{ start: 34, end: 39, txt: '[104]', ref_id: 'BIBREF66' }
+{ start: 60, end: 65, txt: '[103]', ref_id: 'BIBREF64' }
+{ start: 101, end: 105, txt: '[92]', ref_id: 'BIBREF50' }
+{ start: 47, end: 51, txt: '[91]', ref_id: 'BIBREF49' }
+{ start: 56, end: 61, txt: '[119]', ref_id: 'BIBREF81' }
+{ start: 100, end: 105, txt: '[120]', ref_id: 'BIBREF82' }
+{ start: 262, end: 267, txt: '[109]', ref_id: 'BIBREF71' }
+{ start: 675, end: 677, txt: '16', ref_id: null }
+Executing (default): INSERT INTO `papers` (`id`,`title`,`paper_id`,`createdAt`,`updatedAt`) VALUES (NULL,$1,$2,$3,$4);
+Executing (default): INSERT INTO `authors` (`id`,`first`,`middle`,`last`,`suffix`,`email`,`laboratory`,`institution`,`settlement`,`region`,`country`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13);
+Executing (default): INSERT INTO `abstracts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `texts` (`id`,`section`,`text`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `bib_entries` (`id`,`title`,`ref_id`,`year`,`venue`,`volume`,`issn`,`pages`,`other_ids`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Executing (default): INSERT INTO `ref_entries` (`id`,`text`,`latex`,`type`,`createdAt`,`updatedAt`,`paperId`) VALUES (NULL,$1,$2,$3,$4,$5,$6);
+Created Paper
