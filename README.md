@@ -88,8 +88,9 @@ https://sqlitebrowser.org/
   πεδίο κειμένου στο οποίο μπορούμε να γράψουμε **ένα ερώτημα σε γλώσσα sql** πάνω στη βάση δεδομένων 
   
   π.χ 
-  `select * from abstracts where paperId = 1'
-   select * from authors where first like 'J%'
+  `select * from abstracts where paperId = 1`
+  ή
+  `select * from authors where first like 'J%'`
   
   
   ( προυποτίθεται οτι γνωρίζουμε το σχήμα της) και πατώντας το κουμπί submit, το αποτέλεσμα του query επιστρέφεται από το servlet σε μορφή json στον browser.
