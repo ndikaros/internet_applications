@@ -41,7 +41,8 @@ https://sqlitebrowser.org/
   delete from texts;
   delete from bib_entries;
   delete from ref_entries;
-  delete from sqlite_sequence```
+  delete from sqlite_sequence
+  ```
   
   
   
