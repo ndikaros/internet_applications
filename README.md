@@ -27,7 +27,7 @@ To πρώτο, που αφορά την εισαγωγή των δεδομένω
 Για να τρέξουμε το project πρέπει να έχουμε node/npm εγκατεστημένο στον υπολογιστή, και να τοποθετήσουμε τους τρεις αυτούς φακέλους στην ίδια σχετική μεταξύ τους θέση στο file system ( δηλαδή και οι τρεις να είναι στο ίδιο level).
 Κατόπιν μέσω της γραμμής εντολών μπαίνουμε στον φάκελο covid-04 και τρέχουμε
 
-  node .
+  `node .`
 Το πρόγραμμα θα εισάγει τα papers που βρίσκονται στα sample_files μέσα στη βάση δεδομένων.
 Για να δούμε τα περιεχόμενα της βάσης δεδομένων μπορούμε να χρησιμοποιήσουμε τον desktop client 
 https://sqlitebrowser.org/
@@ -35,13 +35,13 @@ https://sqlitebrowser.org/
 Επειδή η βάση δεδομένων έχει ήδη μέσα αυτά τα δεδομένα, αν θέλουμε προηγουμένως να την αδειάσουμε 
 μπορούμε να τρέξουμε στο sql window  του sqlitebrowser τις εντολές :
 
-  delete  from papers;
+ ``` delete  from papers;
   delete from authors;
   delete from abstracts;
   delete from texts;
   delete from bib_entries;
   delete from ref_entries;
-  delete from sqlite_sequence
+  delete from sqlite_sequence```
   
   
   
