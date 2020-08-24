@@ -100,7 +100,7 @@ https://sqlitebrowser.org/
   
  youtube link:
  
- https://github.com/ndikaros/internet_applications
+https://www.youtube.com/watch?v=6NxmJLsvP4M&feature=youtu.be
   
   
   
